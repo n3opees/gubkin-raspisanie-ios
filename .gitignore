@@ -1,0 +1,10 @@
+# Устаревшая страница-инструкция и её шаблон (старый код только для одной группы)
+instrukciya.html
+tools/page.tpl.html
+tools/build.js
+
+# Скриншоты с настоящим расписанием и данные для проверок
+screenshot-*
+*.jpg
+*.png
+login.txt
